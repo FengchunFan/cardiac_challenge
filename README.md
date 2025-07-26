@@ -4,19 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
 
 
-**If you find this repository useful, we ask that you cite our works in section [Citations](#citations).
-Also, don't forget to ⭐ this repository if you find it useful!**
+**This repository contains the notebooks and code for the 2023 [Data Science Challenge](https://data-science.llnl.gov/dsc) (DSC) problem on machine learning for cardiac electrophysiology at Lawrence Livermore National Laboratory (LLNL).**
 
 <p align="center">
     <img src="figures/rotating_hearts.gif" width=800/>
 </p>
-
-This repository contains the code for the [Data Science Challenge](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
-It contains tutorials on machine learning, as well as notebooks to get you started with the challenge. These notebooks are meant to be a starting point for the challenge, and you are encouraged to modify them as you see fit.
-In particular, you are encouraged to use any machine learning framework of your choice (e.g. PyTorch, TensorFlow, JAX, etc.) and any machine learning model of your choice (e.g. neural networks, random forests, etc.).
-The repository also provides a set of helper functions to load the data from [Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals](https://library.ucsd.edu/dc/object/bb29449106).
-A useful resource for getting started with the challenge is the [Medium Blog post](https://medium.com/p/a20661669937) by Mikel Landajuela. Code implementation is based on the code repository [cardiac_ml](https://github.com/landajuela/cardiac_ml).
-
 
 Resources
 ----------------
